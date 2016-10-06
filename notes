@@ -1,0 +1,1 @@
+run the ontology by using npm start (because it runs throught the packages and use the neo4j files from other user)
